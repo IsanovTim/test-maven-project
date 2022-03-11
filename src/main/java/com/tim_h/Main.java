@@ -6,5 +6,6 @@ public class Main {
         System.out.println("test");
         System.out.println("thth");
         System.out.println("first");
+        System.out.println("kkk");
     }
 }
